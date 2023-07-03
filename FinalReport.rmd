@@ -61,6 +61,12 @@ The percent graph shows us that the race white is in favor of cappun than the ra
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
+The white are in favor by 65% / 34% oppose. Black are at 42% in favor/ 57% oppose. while other are at 55% in favor / 44% oppose. White have both the highest percent in favor while also having the lowest percent in oppose.
 
 
 

@@ -99,3 +99,7 @@ Every race in this study is ver different in their view on capital punishment. S
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+This data has everything we need to see all the data. and we are able to conclude that White has the highest in favor and black has the lowest.
+
+
